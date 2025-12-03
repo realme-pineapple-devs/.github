@@ -18,8 +18,8 @@
 
 | Device | Codenames | OPlus Project ID | Maintainers |
 | :----: | :--------: | :--------------: | :----------: |
-| realme GT Neo6 | bale</br> RMX3852</br> RE5C46L1 | 23622 | [MisterZtr](https://github.com/MisterZtr)</br> [InternalHellhound](https://github.com/InternalHellhound) |
-| realme GT 6 | bale</br> RMX3851</br> RE5CA6L1 | 23718 | X |
+| realme GT Neo6 | bale-b</br> RMX3852</br> RE5C46L1 | 23622 | [MisterZtr](https://github.com/MisterZtr)</br> [InternalHellhound](https://github.com/InternalHellhound) |
+| realme GT 6 | bale-c</br> RMX3851</br> RE5CA6L1 | 23718 | X |
 
 </tr></td>
 </table>
@@ -31,8 +31,9 @@
 | Device | Codenames | OPlus Project ID | Maintainers |
 | :----: | :--------: | :--------------: | :----------: |
 | realme GT Neo6 SE | bale</br> RMX3850</br> RE5C39L1 | 23609 | X |
-| realme GT 6T | bale</br> RMX3853</br> RE606FL1 | 24687 | X |
+| realme GT 6T | bale-d</br> RMX3853</br> RE606FL1 | 24687 | X |
 
 </tr></td>
 </table>
+
 
